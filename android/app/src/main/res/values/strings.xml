@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">googleLogin</string>
+    <string name="title_activity_main">googleLogin</string>
+    <string name="package_name">com.lot.googlelogin</string>
+    <string name="custom_url_scheme">com.lot.googlelogin</string>
+    <string name="server_client_id">177459007665-a6h6o77qmgccbq7g5ap57p0tqra7umf0.apps.googleusercontent.com</string>
+</resources>
